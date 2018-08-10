@@ -23,4 +23,4 @@ return propper hard 404s which makes it hard for the program to tell a live link
 These sites can often be mistaken for dead links in this case.
 
 The algorithm also makes the assumption that host urls
-cannot be 404 links. See the cited document under the Basis for algorithm section for more information o
+cannot be 404 links. See the cited document under the Basis for algorithm section for more information.
