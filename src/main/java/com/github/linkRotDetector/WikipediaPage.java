@@ -66,7 +66,7 @@ public class WikipediaPage {
     	int responseCode = 0;
     	
     	try{
-        	 connection = (HttpURLConnection) testSite.openConnection();//Open a connection with the site so we can start testing.
+        	 connection = (HttpURLConnection) testSite.openConnection(); //Open a connection with the site so we can start testing.
         	 connection.setConnectTimeout(MAXWAITTIME*1000);
         	 responseCode = connection.getResponseCode(); //Way too many things to check, just assign it to an int and check that so we don't have to slow things down with constant gets.
     	}catch(java.net.SocketTimeoutException e ){
