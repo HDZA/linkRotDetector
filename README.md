@@ -6,7 +6,7 @@ The program is an implementation of the algorithm described in Sic Transit Glori
 which can be found here: http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.1.9406
 
 # APIs required
-This project now uses Maven, the dependencies it uses are Jsoup and Apache.commons.lang.
+This project has been updated to use Maven, the dependencies it uses are Jsoup and Apache.commons.lang.
 
 # Usage of the program
 java linkRotDetector [Wikipedia article address]
