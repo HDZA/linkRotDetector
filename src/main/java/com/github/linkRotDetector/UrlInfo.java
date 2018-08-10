@@ -1,4 +1,4 @@
-package main.java;
+package main.java.com.github.linkRotDetector;
 import java.net.URI;
 import java.net.URISyntaxException;
 

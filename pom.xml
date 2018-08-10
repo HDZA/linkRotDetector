@@ -38,7 +38,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>main.java.linkRotDetector</mainClass>
+                            <mainClass>main.java.com.github.linkRotDetector.linkRotDetector</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>

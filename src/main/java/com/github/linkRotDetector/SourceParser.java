@@ -1,4 +1,4 @@
-package main.java;
+package main.java.com.github.linkRotDetector;
 
 import java.io.IOException;
 import java.util.ArrayList;
