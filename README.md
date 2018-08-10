@@ -24,3 +24,8 @@ These sites can often be mistaken for dead links in this case.
 
 The algorithm also makes the assumption that host urls
 cannot be 404 links. See the cited document under the Basis for algorithm section for more information.
+
+# Test Branch Info
+This specific branch is to test the viability of moving from Jsoup to selenium. The problem I keep running into is more and more website text
+is hidden behind javascript which Jsoup cannot parse out any text from. We need to make this tool as universal as possible for
+a site with as wide a variety of website links as Wikipedia.
